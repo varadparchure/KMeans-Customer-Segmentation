@@ -1,1 +1,1 @@
-# KMeans-Customer-Segmentations-
+Kmeans Customer Segmentation
