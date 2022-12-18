@@ -1,4 +1,4 @@
-###Kmeans Customer Segmentation
+**Kmeans Customer Segmentation**
 
 Univariate | Bivariate Clustering
 
